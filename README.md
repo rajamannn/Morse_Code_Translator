@@ -73,5 +73,80 @@ After successful simulation, the same design was implemented on a **physical har
 
 ---
 
-## 📂 Project Structure
+## 📂 Project StructureMorse-Code-Translator/
+│
+├── code/
+│ └── morse_translator.ino
+│
+├── circuit/
+│ └── wiring_diagram.png
+│
+├── simulation/
+│ └── wokwi_project_link.txt
+│
+└── README.md
+
+---
+
+## ▶️ How to Run
+
+### Simulation (Wokwi)
+1. Open Wokwi Simulator
+2. Load the project
+3. Run simulation
+4. Press button to generate Morse signals
+
+### Hardware
+1. Connect components as per circuit diagram
+2. Upload code to microcontroller
+3. Press button to input Morse
+4. Observe LED + Buzzer output
+
+---
+
+## 📊 Learning Outcomes
+
+- Embedded System Design  
+- Simulation vs Real Hardware Behavior  
+- Signal Timing & Digital Communication  
+- Hardware Debugging  
+- Practical Electronics Implementation  
+
+---
+
+## 🔮 Future Improvements
+
+- LCD / OLED Text Output
+- Serial Monitor Decoding Display
+- Full Alphabet Auto Recognition
+- Wireless Morse Transmission
+- Mobile / PC Interface
+- Morse-to-Text Display
+
+---
+
+## 👨‍💻 Author
+
+**Aman Raj**  
+ECE Student | Embedded & Hardware Enthusiast | VLSI Learner  
+
+---
+
+## ⭐ Contribute / Support
+
+If you found this project useful:
+
+- ⭐ Star the repository
+- 🍴 Fork and improve
+- 🧠 Suggest new features
+- 📢 Share with others
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for educational and learning purposes.
+
+
+
 
